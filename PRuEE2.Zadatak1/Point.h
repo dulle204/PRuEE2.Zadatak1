@@ -14,10 +14,3 @@ private:
 	int z;
 };
 
-Point::Point()
-{
-}
-
-Point::~Point()
-{
-}
